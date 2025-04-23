@@ -1,7 +1,7 @@
 import qrcode
 from PIL import Image
-
-# Advance version to make QR as u want ...
+#this is qr scanner project 
+# Advance version to make QR as u want .....
 # According to your need u can change the color size etc...
 qr=qrcode.QRCode(version=1,
                  error_correction=qrcode.constants.ERROR_CORRECT_H,
